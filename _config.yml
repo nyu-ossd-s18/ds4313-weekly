@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Dora Sun
 
 # CUSTOMIZE
 # Short bio or description (displayed in the header)
@@ -11,7 +11,7 @@ description: CSCI-UA 480 Student, Spring 2018
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/35243561?s=200&v=4
+avatar: https://avatars2.githubusercontent.com/u/10905385?s=400&v=4
 
 # CUSTOMIZE
 #
@@ -22,10 +22,10 @@ avatar: https://avatars2.githubusercontent.com/u/35243561?s=200&v=4
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: dorableee
   flickr:
-  github: nyu-ossd-s18
-  instagram:
+  github: dorasun
+  instagram: dorablee
   linkedin:
   pinterest:
   twitter: 
@@ -36,11 +36,11 @@ footer-links:
 # CUSTOMIZE
 # Your website URL (e.g. https://nyu-ossd-s18.github.io/weekly )
 # Replace the last part by the name of your own repository. It should be "/weekly-" followed by your username. 
-url: "https://nyu-ossd-s18.github.io/weekly" 
+url: "https://nyu-ossd-s18.github.io/ds4313-weekly" 
 
 # CUSTOMIZE
 # Replace this with the name of your own repository. It should be "/weekly-" followed by your username.
-baseurl: "/weekly"
+baseurl: "/ds4313-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
