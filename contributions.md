@@ -4,8 +4,6 @@ title: Contributions
 permalink: /contributions/
 ---
 
-### Contributions
-
 Week # | Contribution | Contribution Type | Short Description
 --- | --- | --- | ---
 1 | None | N/A | N/A
