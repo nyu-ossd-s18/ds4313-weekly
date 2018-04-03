@@ -32,3 +32,4 @@ Week # | Contribution | Contribution Type | Short Description
   | [PDF.js: Issue 9128](https://github.com/mozilla/pdf.js/issues/9128) | Other | Followup issue triage
 9 | [PDF.js: Issue 7533](https://github.com/mozilla/pdf.js/issues/7533) | Other | Issue triaged
   | [PDF.js: Issue 9194](https://github.com/mozilla/pdf.js/issues/9194) | Other | Issue triaged
+10| [CW: Issue 104](https://github.com/joannakl/cs480_s18/issues/104) | Course Website | Issue reported
