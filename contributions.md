@@ -36,3 +36,4 @@ Week # | Contribution | Contribution Type | Short Description
   | [CW: PR 105](https://github.com/joannakl/cs480_s18/pull/105) | Course Website | Pull request fix confirmed
   | [Terasology: Issue 3307](https://github.com/MovingBlocks/Terasology/issues/3307) | Other | Issue claimed
   | [CW: Issue 99](https://github.com/joannakl/cs480_s18/issues/99) | Course Website | Issue comment to suggest solution
+  | [Terasology: Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | Other | Comment for guidance
