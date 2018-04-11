@@ -8,7 +8,7 @@ Week # | Contribution | Contribution Type | Short Description
 --- | --- | --- | ---
 1 | None | N/A | N/A
 2 | None | N/A | N/A
-3 | [Volleyball Jargon Website](https://en.wikipedia.org/w/index.php?title=Volleyball_jargon&oldid=824693658) | Wikipedia | Article edit
+3 | [Volleyball Jargon Wiki](https://en.wikipedia.org/w/index.php?title=Volleyball_jargon&oldid=824693658) | Wikipedia | Article edit
   | [CW: Class 1 Repeated, Class 2 Missing](https://github.com/joannakl/cs480_s18/issues/7) | Course Website | Issue reported
   | [CW: Issue 4](https://github.com/joannakl/cs480_s18/issues/4) | Course Website | Issue comment
   | [CW: Issue 5](https://github.com/joannakl/cs480_s18/issues/5) | Course Website | Issue comment
@@ -37,3 +37,4 @@ Week # | Contribution | Contribution Type | Short Description
   | [Terasology: Issue 3307](https://github.com/MovingBlocks/Terasology/issues/3307) | Other | Issue claimed
   | [CW: Issue 99](https://github.com/joannakl/cs480_s18/issues/99) | Course Website | Issue comment to suggest solution
   | [Terasology: Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | Other | Comment for guidance
+  | [NYU Shanghai: Campus Section](https://en.wikipedia.org/wiki/New_York_University_Shanghai) | Wikipedia | Article edit
