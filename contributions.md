@@ -38,3 +38,4 @@ Week # | Contribution | Contribution Type | Short Description
   | [CW: Issue 99](https://github.com/joannakl/cs480_s18/issues/99) | Course Website | Issue comment to suggest solution
   | [Terasology: Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | Other | Comment for guidance
 11| [NYU Shanghai: Campus Section](https://en.wikipedia.org/wiki/New_York_University_Shanghai) | Wikipedia | Article edit
+12| [Terasology: PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Other | Pull request to fix a texture
