@@ -39,3 +39,5 @@ Week # | Contribution | Contribution Type | Short Description
   | [Terasology: Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | Other | Comment for guidance
 11| [NYU Shanghai: Campus Section](https://en.wikipedia.org/wiki/New_York_University_Shanghai) | Wikipedia | Article edit
 12| [Terasology: PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Other | Pull request to fix a texture
+13| [Terasology Wiki](https://github.com/Terasology/TutorialAssetSystem/wiki/Add-New-Creature/dee8d612c6bfe9a601300e33f3ac84c3ba236a04) | Other | Edited wiki article for grammar and clarity
+14| [Jeffrey Lehman](https://en.wikipedia.org/wiki/Jeffrey_S._Lehman) | Wikipedia | Article edit
